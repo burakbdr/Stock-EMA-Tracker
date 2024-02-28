@@ -39,7 +39,9 @@ In this formula:
 - **PreviousEMA** represents the previous EMA value
 - **Multiplier** is a constant factor that determines the weight given to recent prices compared to older ones, typically set at 2/3 for EMA calculations
 
+Output of script should look like this
 
+![graph](CIMSA.IS_1d_plot.jpg)
 
 ## Environments
 
